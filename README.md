@@ -118,3 +118,9 @@ Hyperparameter tuning further enhanced model performance, making it the most sui
 ---
 
 ## 📂 Project Structure
+
+CVD_HEALTH_PREDICTION/
+│
+├── CVD_cleaned.csv
+├── CVD_Health_Prediction.ipynb
+└── README.md
